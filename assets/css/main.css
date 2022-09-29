@@ -524,7 +524,7 @@ section {
 .hero-animated {
   width: 100%;
   min-height:50vh;
-  background: url("/img/hero-bg.png") center center;
+  background: url("./img/hero-bg.png") center center;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
